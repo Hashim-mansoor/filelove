@@ -149,13 +149,14 @@ function log(id, item) {
 
 const announce = [
     ['wss://qot.abiir.top'],
+    ['wss://spacetradersapi-chatbox.herokuapp.com'],
     ['wss://tracker.btorrent.xyz'],
     ['wss://tracker.dnlab.net'],
     ['wss://tracker.files.fm:7073'],
+    ['wss://tracker.ghostchu-services.top'],
     ['wss://tracker.magnetoo.io'],
-    ['wss://tracker.novage.com.ua'],
     ['wss://tracker.openwebtorrent.com'],
-    ['wss://tracker.sloppyta.co']
+    ['wss://tracker.webtorrent.dev']
 ];
 
 let timeout;
